@@ -28,7 +28,7 @@ Do whatever you think is needed to make the code easier to change, test, and und
 It's a software, remember? If we wouldn't be allowed to change it, it would be implemented as hardware. :wink:
 
 ### How to submit solutions
-TL;DR Copy this repository into your own a private repository and add us as collaborators for review.
+TL;DR Copy this repository into your own private repository and add us as collaborators for a review.
 
 The steps are, basically, as follows:
 1. Create a **private** repository. **Do not** create a fork!
