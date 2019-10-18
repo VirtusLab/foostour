@@ -22,7 +22,7 @@ There are two tasks in this assignment:
 
 **_Refactor the app to make its code clean_**. While doing so try to also apply,
 where applicable, design principles and patterns known to you. They may be
-SOLID, GRASP patterns, Design Patterns, etc. Whatever will make the code
-easier to change, test, and understand.
+SOLID, GRASP patterns, Design Patterns, etc.
 
-We do value Clean Code and hope that you do too.
+Do whatever you think is needed to make the code easier to change, test, and understand.
+It's a software, remember? If we wouldn't be allowed to change it, it would be implemented as hardware. ;-)
