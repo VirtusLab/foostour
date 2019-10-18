@@ -1,7 +1,7 @@
 ### Intro
 We do value Clean Code and hope that you do too.
 
-**_Refactor_** the app to make its code clean. While doing so try to also apply,
+**_Refactor the app to make its code clean_**. While doing so try to also apply,
 where applicable, design principles and patterns known to you. They may be
 SOLID, GRASP patterns, Design Patterns, etc. Whatever will make the code
 easier to change, test, and understand.
