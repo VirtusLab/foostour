@@ -34,6 +34,6 @@ The steps are, basically, as follows:
 1. Create a **private** repository. **Do not** create a fork!
 1. Copy this repository - either add it as a remote to your repository or just download a zip and commit into your repository. It doesn't matter. Just have a copy of this repository in your own private repository.
 1. Solve the assignment.
-1. In repository settings add **olszowski** and/or **pwojnowski** as collaborators.
+1. In repository settings add **olszowski** as a collaborator.
 1. Wait for code review.
 1. Have fun and good luck! :wink:
