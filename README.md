@@ -25,4 +25,15 @@ where applicable, design principles and patterns known to you. They may be
 SOLID, GRASP patterns, Design Patterns, etc.
 
 Do whatever you think is needed to make the code easier to change, test, and understand.
-It's a software, remember? If we wouldn't be allowed to change it, it would be implemented as hardware. ;-)
+It's a software, remember? If we wouldn't be allowed to change it, it would be implemented as hardware. :wink:
+
+### How to submit solutions
+TL;DR Copy this repository into your own a private repository and add us as collaborators for review.
+
+The steps are, basically, as follows:
+1. Create a **private** repository. **Do not** create a fork!
+1. Copy this repository - either add it as a remote to your repository or just download a zip and commit into your repository. It doesn't matter. Just have a copy of this repository in your own private repository.
+1. Solve the assignment.
+1. In repository settings add **olszowski** and/or **pwojnowski** as collaborators.
+1. Wait for code review.
+1. Have fun and good luck! :wink:
