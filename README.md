@@ -1,11 +1,3 @@
-### Intro
-We do value Clean Code and hope that you do too.
-
-**_Refactor the app to make its code clean_**. While doing so try to also apply,
-where applicable, design principles and patterns known to you. They may be
-SOLID, GRASP patterns, Design Patterns, etc. Whatever will make the code
-easier to change, test, and understand.
-
 ### About the app
 Our friend wants to organize a Foosball tournament at her work, but there are many
 single players who need a teammate. While preparing a lunch she wrote a simple
@@ -21,3 +13,16 @@ In the kitchen we've found a cookbook with some notes on margins about the app:
  course, those who are comfortable on both positions can play with each other in
  a team. Two defenders or two attackers are weaker than other combinations, so should
  be paired this way only when there are no other options.
+
+### The Assignment
+
+There are two tasks in this assignment:
+1. Refactor the code to make it clean.
+1. Add the pairing functionality.
+
+**_Refactor the app to make its code clean_**. While doing so try to also apply,
+where applicable, design principles and patterns known to you. They may be
+SOLID, GRASP patterns, Design Patterns, etc. Whatever will make the code
+easier to change, test, and understand.
+
+We do value Clean Code and hope that you do too.
