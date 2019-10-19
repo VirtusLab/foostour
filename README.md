@@ -37,3 +37,6 @@ The steps are, basically, as follows:
 1. In repository settings add **olszowski** as a collaborator.
 1. Wait for code review.
 1. Have fun and good luck! :wink:
+
+### Outro
+In case of any questions or comments, please create an issue here.
